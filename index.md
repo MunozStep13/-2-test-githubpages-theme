@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello Welcome to GitHub Pages - i am Lesly Stephany Muñoz
 
 You can use the [editor on GitHub](https://github.com/MunozStep13/-2-test-githubpages-theme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Primero ella no te ama
+## Segudo ella no te ama 
+### Tercero ella no te ama
 
 - Bulleted
 - List
